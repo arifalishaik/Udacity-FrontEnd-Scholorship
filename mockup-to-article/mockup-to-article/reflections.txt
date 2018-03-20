@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your
+thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+-> I have learnt about new HTML5 elements like superscript, strikethrough, hr( adds a horizontal line )
+-> For me it was easy as I ahd previous knowledge on HTML5 and CSS3
+-> Understanding the Interface was little difficult for me
+-> I kept on solving them step by step 
