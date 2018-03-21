@@ -1,6 +1,5 @@
 /* add your CSS here */
 html {
-    font-family: Arial;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
@@ -29,9 +28,6 @@ body {
     margin-bottom: 10px;
 }
 
-.favourite-list{
-    list-style: none;
-}
 
 .sub-container {
     border-radius: 1px;
@@ -40,11 +36,15 @@ body {
     font-size: 14px;
 }
 
+/* The First paragrpah in the Sub-Container */
 .sub-container .para1 {
     font-style: italic;
     font-family: Helvetica;
     font-weight: 520;
 }
-.favourite-list {
-    padding: 0px;
+
+/* information of cat, the unordered list */
+.information {
+    list-style: none;
+    padding: 0;
 }
