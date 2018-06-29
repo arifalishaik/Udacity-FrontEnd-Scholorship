@@ -1,4 +1,4 @@
-## Project: Creating a Slack card. Slack Card given information about a user
+## Project: Creating a Slack card. Slack Card gives information about a user
 
 This simple project is a part of Udacity's Front End Scholorship challenge <br />
 
