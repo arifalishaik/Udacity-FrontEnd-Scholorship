@@ -1,0 +1,66 @@
+## Project: styling a given webpage i.e a udacity websites header
+
+This simple project is a part of Udacity's Front End Scholorship challenge <br />
+
+## Concepts Learnt:
+
+```css
+
+    /* add your CSS here */
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    width: 300px;
+    margin: auto;
+    margin-top: 10px;
+    line-height: 1.2em;
+}
+
+.container{
+    border-radius: 1px;
+    border: 0.5px solid #e7e7e7;
+    padding: 10px;
+    font-family: Helvetica, sans-serif, Arial;
+    width: 300px;
+
+    -webkit-box-shadow: 2px 2px 1px 2px #e7e7e7;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow: 2px 2px 1px 2px #e7e7e7;     /* Firefox 3.5 - 3.6 */
+    box-shadow: 2px 2px 1px 2px #e7e7e7;          /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.image{
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+
+.sub-container {
+    border-radius: 1px;
+    border: 0.5px solid #e7e7e7;
+    padding: 8px;
+    font-size: 14px;
+}
+
+/* The First paragrpah in the Sub-Container */
+.sub-container .para1 {
+    font-style: italic;
+    font-family: Helvetica;
+    font-weight: 520;
+}
+
+/* information of cat, the unordered list */
+.information {
+    list-style: none;
+    padding: 0;
+}
+
+```
+
+### Here is the screen shot of the project
+
+<p align="center">
+  <img src="img/screenshot.png" alt="Screen shot of the project">
+</p>

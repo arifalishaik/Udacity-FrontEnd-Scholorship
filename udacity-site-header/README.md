@@ -6,7 +6,7 @@ This simple project is a part of Udacity's Front End Scholorship challenge <br /
 
 ```css
 
-        * {
+    * {
         box-sizing: border-box;
     }
 
